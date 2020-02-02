@@ -1,0 +1,63 @@
+div.grid-stack > .grid-stack-item{
+  z-index: 80;
+}
+div.grid-stack > div.active-grid-stack-item
+{
+   z-index: 100;
+}
+
+
+.edit-button {
+  text-align: center;
+  font-size: 400%;
+}
+
+.widget-title {
+  width: 100%;
+  float: right;
+}
+.suppr-head {
+  width: 15%;
+}
+
+.icon-create {
+  font-size : 400%;
+}
+.widget-head {
+  width : 100%;
+}
+
+.panel-title {
+  width : 85%;
+  float : left;
+}
+
+
+.grid-stack {
+  background-color:  lightgoldenrodyellow;
+}
+
+
+.blue {
+  background-color:#0033cc ;
+}
+
+.red {
+  background-color: #ff0000 ;
+}
+
+.purple {
+  background-color: #ff33cc ;
+}
+
+.green {
+  background-color: #009933 ;
+}
+
+.yellow {
+  background-color: #ffff00 ;
+}
+
+.orange {
+  background-color: #ff6600 ;
+}
